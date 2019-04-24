@@ -4,7 +4,7 @@
 * See the possibilities offered by Espresso to use app code
 
 **Objectives:**
-1. Modify the app state before it's launched by setting `first_launch` to `false` in the app's `sharedPreferences`.
+1. Modify the app state before it's launched by setting `is_first_launch` to `false` in the app's `sharedPreferences`.
 2. Verify the beverage name on the **Order Overview** screen.
 
 <br />
